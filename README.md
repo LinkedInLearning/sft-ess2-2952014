@@ -23,6 +23,6 @@ _Software Engineer, Big Data Experte_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/stefan-edlich) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/einfuhrung-in-softwaretechnik-teil-2/die-wichtigsten-techniken-kennenlernen-um-softwarequalitat-nachhaltig-zu-verbessern
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQEhVwdaW2JCZg/learning-public-crop_675_1200/0/1643370209355?e=1646956800&v=beta&t=dCRwgLdrWhaFKGcPb8ycnk0FprpIb0S0d9O9VJXxJ1I
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2952014/2952014-1643284902386-16x9.jpg
 
 
